@@ -9,3 +9,5 @@ passando vergonha
 teste
 
 Esse é o teste do Caio
+
+Teste de dentro do IDEA
